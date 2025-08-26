@@ -1,6 +1,6 @@
 #include <iostream>
 #include <stack>
-#include <vector>
+
 using namespace std;
 
 void nearestSmallerToLeft(int arr[], int n) {
@@ -36,4 +36,5 @@ int main() {
 
     return 0;
 }
+
 
